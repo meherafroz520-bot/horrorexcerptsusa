@@ -457,3 +457,43 @@ function setupSearch() {
 
     searchInput.addEventListener('input', filterPosts);
 }
+// ==========================================================================
+// Dark / Light Mode Toggle Logic with LocalStorage
+// ==========================================================================
+function setupThemeToggle() {
+    const themeBtn = document.getElementById('themeToggleBtn');
+    const themeIcon = document.getElementById('themeIcon');
+    const themeText = document.getElementById('themeText');
+
+    if (!themeBtn) return;
+
+    // Check saved theme from LocalStorage
+    const savedTheme = localStorage.getItem('siteTheme');
+    if (savedTheme === 'light') {
+        document.body.classList.add('light-mode');
+        if (themeIcon) themeIcon.textContent = '☀️';
+        if (themeText) themeText.textContent = 'Light';
+    }
+
+    themeBtn.addEventListener('click', () => {
+        document.body.classList.toggle('light-mode');
+        
+        let activeTheme = 'dark';
+        if (document.body.classList.contains('light-mode')) {
+            activeTheme = 'light';
+            if (themeIcon) themeIcon.textContent = '☀️';
+            if (themeText) themeText.textContent = 'Light';
+        } else {
+            if (themeIcon) themeIcon.textContent = '🌙';
+            if (themeText) themeText.textContent = 'Dark';
+        }
+
+        // Save preference so it persists across page visits
+        localStorage.setItem('siteTheme', activeTheme);
+    });
+}
+
+// Initialize theme toggle when DOM is loaded
+window.addEventListener('DOMContentLoaded', () => {
+    setupThemeToggle();
+});
