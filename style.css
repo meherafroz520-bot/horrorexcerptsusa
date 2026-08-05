@@ -469,3 +469,60 @@ footer .author-credit {
         flex-direction: row;
     }
 }
+/* ==========================================================================
+   Theme Toggle Button & Light Mode Theme
+   ========================================================================== */
+.theme-btn {
+    background: var(--bg-card);
+    color: var(--text-primary);
+    border: 1px solid var(--border-color);
+    padding: 6px 14px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    transition: all 0.25s ease;
+}
+
+.theme-btn:hover {
+    border-color: var(--blood-red);
+    transform: scale(1.05);
+}
+
+/* Light Mode Overrides (যখন <body> ট্যাগে light-mode ক্লাস আসবে) */
+body.light-mode {
+    --bg-dark: #f4f4f7;
+    --bg-card: #ffffff;
+    --bg-card-hover: #e9e8f0;
+    --text-primary: #121016;
+    --text-muted: #524d5e;
+    --border-color: #d8d4e2;
+    background-image: radial-gradient(circle at 50% 0%, #e0e8f0 0%, #f4f4f7 70%);
+}
+
+body.light-mode .navbar {
+    background: rgba(244, 244, 247, 0.92);
+}
+
+body.light-mode .hero-title,
+body.light-mode .section-title,
+body.light-mode .card-title,
+body.light-mode .article-title {
+    color: #121016;
+}
+
+body.light-mode .read-btn,
+body.light-mode .search-btn {
+    background: rgba(0, 180, 200, 0.12);
+    color: #007788;
+    border-color: #008899;
+}
+
+body.light-mode .read-btn:hover,
+body.light-mode .search-btn:hover {
+    background: #008899;
+    color: #ffffff;
+}
