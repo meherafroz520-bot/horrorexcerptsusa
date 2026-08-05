@@ -6,22 +6,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Inter:wght@300;400;600&display=swap');
 
 :root {
-    --bg-dark: #0d0c10;
-    /* Deep midnight charcoal background */
-    --bg-card: #16141a;
-    /* Premium card tone */
-    --bg-card-hover: #201c26;
-    /* Hover effect background */
-    --blood-red: #00e5ff;
-    /* Bright Cyan Accent */
-    --blood-glow: #00e5ff;
-    /* Glow Cyan */
-    --text-primary: #f1eff5;
-    /* High contrast readable text */
-    --text-muted: #948e9e;
-    /* Muted gray for metadata */
-    --border-color: #24202c;
-    /* Subtle dark border */
+    --bg-dark: #0d0c10;          /* Deep midnight charcoal background */
+    --bg-card: #16141a;          /* Premium card tone */
+    --bg-card-hover: #201c26;    /* Hover effect background */
+    --blood-red: #00e5ff;        /* Bright Cyan Accent */
+    --blood-glow: #00e5ff;       /* Glow Cyan */
+    --text-primary: #f1eff5;     /* High contrast readable text */
+    --text-muted: #948e9e;       /* Muted gray for metadata */
+    --border-color: #24202c;     /* Subtle dark border */
 }
 
 * {
@@ -34,8 +26,7 @@ html,
 body {
     width: 100%;
     max-width: 100%;
-    overflow-x: hidden;
-    /* Prevents unwanted side scroll on mobile */
+    overflow-x: hidden;         /* Prevents unwanted side scroll on mobile */
     scroll-behavior: smooth;
 }
 
@@ -227,7 +218,6 @@ h3,
     min-height: 90px;
     max-width: 100%;
     overflow-x: auto;
-    /* Screen-overflow fix for Adsterra 728px banners */
 }
 
 .ad-box iframe {
@@ -349,9 +339,7 @@ h3,
     color: #000;
 }
 
-/* ==========================================================================
-   Article Page
-   ========================================================================== */
+/* Article Styling */
 .article-container {
     max-width: 740px;
     padding: 40px 16px;
@@ -395,6 +383,22 @@ h3,
     margin: 32px 0 12px;
 }
 
+.article-body blockquote {
+    background: rgba(0, 229, 255, 0.05);
+    border-left: 3px solid var(--blood-red);
+    padding: 16px 20px;
+    margin: 20px 0;
+    border-radius: 0 8px 8px 0;
+}
+
+.article-body ul {
+    margin: 16px 0 24px 20px;
+}
+
+.article-body li {
+    margin-bottom: 8px;
+}
+
 .warning-tag {
     display: inline-block;
     background: rgba(0, 229, 255, 0.1);
@@ -407,9 +411,7 @@ h3,
     margin-bottom: 20px;
 }
 
-/* ==========================================================================
-   Footer
-   ========================================================================== */
+/* Footer Styling */
 footer {
     background: #08070a;
     border-top: 1px solid var(--border-color);
@@ -439,9 +441,7 @@ footer .author-credit {
     color: #ffffff;
 }
 
-/* ==========================================================================
-   Responsive Queries (Mobile First Fixes)
-   ========================================================================== */
+/* Responsive Queries */
 @media (max-width: 600px) {
     .hero-title {
         font-size: 28px;
