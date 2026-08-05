@@ -5,24 +5,141 @@
 
 const posts = [
     {
-        id: "1",
-        title: "The Last Guest at the Route 66 Motel",
-        category: "Roadside Horror",
-        readTime: "4 min read",
-        image: "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800",
-        summary: "A trucker pulls off Route 66 for one night's rest. The motel register hasn't had a new name in eleven years.",
-        content: `
-            <span class="warning-tag">READER DISCRETION ADVISED</span>
-            <p>The neon sign said VACANCY, but half the letters were dead. Danny hadn't planned on stopping — not out here, not on this stretch of Route 66 where the gas stations went dark an hour after sundown — but his eyes were closing on their own, and the desert doesn't forgive a driver who falls asleep at seventy.</p>
-            <h2>Room 14</h2>
-            <p>The clerk didn't ask for ID. He didn't ask for a card. He just slid a brass key across the counter and said, "Fourteen's ready for you," before Danny had said a single word about which room he wanted.</p>
-            <p>The guestbook on the counter was open to a page dated eleven years back. Every line after it was blank.</p>
-            <h2>The Sound in the Wall</h2>
-            <p>Around 2 a.m., Danny woke to a sound like knuckles dragging along drywall, slow, deliberate, moving from the headboard toward the bathroom door. He told himself it was pipes. Old motels always had bad pipes.</p>
-            <p>Then the dragging stopped, right outside the bathroom, and a voice — dry, almost polite — asked through the wall if he'd signed the book yet.</p>
-            <p>Danny left his bag behind. He didn't look back at Room 14, and he never found that stretch of the 66 again, no matter how many times he drove it looking.</p>
-        `,
-        isHero: true
+        
+    id: "seven-knocks",
+    title: "Seven Knocks",
+    category: "Psychological Horror",
+    readTime: "12 min read",
+    image: "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?w=800", // Dark / Black themed horror image
+    summary: "Rule #1: Never answer the door after the seventh knock. When Mara inherits her late grandmother's farmhouse in rural Ohio, she finds six strange rules taped inside a cabinet.",
+    content: `
+        <span class="warning-tag">READER DISCRETION ADVISED — PSYCHOLOGICAL HORROR</span>
+        <p><em>Contains mild violence, themes of grief and death, and rule-based paranormal suspense.</em></p>
+
+        <h2>PROLOGUE</h2>
+        <p>The house had six rules, and Mara Coleman broke all of them within the first two weeks. She just didn't know it yet.</p>
+
+        <h2>CHAPTER ONE: THE LETTER</h2>
+        <p>The lawyer's office smelled like old coffee and older paper, and the man behind the desk kept adjusting his glasses like they didn't quite fit his face.</p>
+        <p>"Your grandmother left you the house," he said. "And this."</p>
+        <p>He slid an envelope across the desk. Mara's name was written on the front in handwriting she hadn't seen in eleven years — small, slanted, the letters leaning like they were trying to get away from each other.</p>
+        <p>"She wrote it two months before she passed," the lawyer added. "Said I wasn't to give it to you until after the funeral."</p>
+        <p>Mara turned the envelope over in her hands. She hadn't spoken to her grandmother since she was seventeen — a falling-out neither of them had ever bothered to explain to the rest of the family. Now the woman was dead, and Mara was thirty-one, unemployed since March, and three months behind on rent for an apartment she hated anyway.</p>
+        <p>A free house in the country didn't sound like a curse. It sounded like a lifeline. She waited until she was in her car to open the letter.</p>
+
+        <blockquote>
+            <p><strong>Mara,</strong><br>
+            If you're reading this, I'm gone, and you're standing in my house whether you meant to end up there or not. That's how it works. That's how it's always worked in this family.</p>
+            <p>There are rules taped inside the kitchen cabinet, above the flour tin. Follow them. I don't care if they sound insane. I followed them for forty-three years and I died in my own bed at eighty-six, so trust me when I say they work.</p>
+            <p>I'm sorry for everything. I should have told you sooner. I should have told you a lot of things.</p>
+            <p><strong>Love, Grandma Ruth</strong></p>
+        </blockquote>
+
+        <p>Mara read it twice, feeling nothing but a familiar, tired confusion. Ruth Coleman had always been strange — the kind of strange that small towns tolerated in old women because it was easier than asking questions. Mara folded the letter, put the car in drive, and told herself she wasn't going to think about it again.</p>
+        <p>She thought about it the entire four-hour drive to Millhaven, Ohio.</p>
+
+        <h2>CHAPTER TWO: THE RULES</h2>
+        <p>The house sat at the end of a gravel road, half a mile from the nearest neighbor, surrounded by cornfields that had gone brown and brittle with the season. It looked exactly like Mara remembered — white paint peeling at the corners, a porch that sagged in the middle like it was tired of standing.</p>
+        <p>Inside, it smelled like dust and lavender and something underneath that she couldn't name.</p>
+        <p>She found the cabinet on her second night, only because she was looking for a mug. Six index cards, yellowed with age, taped in a neat column above the flour tin. Her grandmother's handwriting, small and slanted.</p>
+
+        <ul>
+            <li><strong>RULE ONE:</strong> Lock the doors by 9 PM. All of them. Even in summer.</li>
+            <li><strong>RULE TWO:</strong> If you hear knocking after dark, count it. Never answer past the seventh knock — no matter what it says.</li>
+            <li><strong>RULE THREE:</strong> Don't go in the root cellar after sundown.</li>
+            <li><strong>RULE FOUR:</strong> If something calls you by a name that isn't yours, don't turn around.</li>
+            <li><strong>RULE FIVE:</strong> Keep a light on in the hallway. Always. Even during the day.</li>
+            <li><strong>RULE SIX:</strong> If you ever see me standing in the yard, I am not your grandmother. Do not let me in.</li>
+        </ul>
+
+        <p>Mara stood in the kitchen for a long time, reading them over and over, waiting for the joke to reveal itself. It didn't. She thought about calling someone — her mother, maybe, who hadn't spoken to Ruth in almost as long as Mara hadn't — but it was nearly midnight, and the thought of explaining this out loud made her feel foolish.</p>
+        <p>She locked the doors instead. All of them. Even though it wasn't summer. She told herself it was just to sleep easier.</p>
+
+        <h2>CHAPTER THREE: THE FIRST KNOCK</h2>
+        <p>It happened on the fourth night.</p>
+        <p>Mara was in bed, half-asleep, when the sound reached her — slow, deliberate knocking from somewhere downstairs. Not the front door. Not the back. Somewhere in between, like whoever was knocking hadn't decided which entrance they wanted yet.</p>
+        <p><em>One.</em></p>
+        <p>She sat up. Told herself it was a branch against the siding. There weren't any trees close enough to the house for that, but she told herself anyway.</p>
+        <p><em>Two. Three.</em></p>
+        <p>Her hands were cold. She thought about Rule Two — never answer past the seventh knock — and hated that some small, stubborn part of her brain had already started counting.</p>
+        <p><em>Four. Five.</em></p>
+        <p>The knocking had a rhythm to it now, unhurried, almost polite. Like someone standing very patiently on the other side of a door, waiting to be let in.</p>
+        <p><em>Six.</em> Mara didn't breathe.</p>
+        <p><em>Seven.</em> Silence.</p>
+        <p>She counted to sixty in her head before she moved, and when she finally crept to the top of the stairs and looked down, the hallway light — the one Rule Five told her to always keep on — was flickering, stuttering like a heartbeat that couldn't quite find its rhythm.</p>
+        <p>Then it steadied. And the house was just a house again.</p>
+        <p>Mara didn't sleep the rest of that night. In the morning, she walked the perimeter of the house in the gray, wet light, looking for footprints, for anything. She found none. The ground beneath every window and door was undisturbed, soft with dew, unmarked. Which was somehow worse.</p>
+
+        <h2>CHAPTER FOUR: THE NEIGHBOR</h2>
+        <p>His name was Del Ashworth, and he'd lived across the cornfield for thirty years. Mara found him on her sixth day in Millhaven, fixing a fence post with the unhurried patience of a man who had nowhere else to be.</p>
+        <p>"You're Ruth's granddaughter," he said, not a question. "Mara."</p>
+        <p>He nodded like that confirmed something he'd already suspected. "She tell you about the rules?"</p>
+        <p>Mara's stomach dropped. "You know about the rules?"</p>
+        <p>Del set down his hammer. His face had the weathered look of a man who'd spent a long time deciding whether something was worth saying, and had finally decided it was.</p>
+        <p>"Everybody who's ever lived in that house knows about the rules," he said. "Ruth's mother had them too. And hers before that. Some kind of family thing, going back to before anybody round here can remember."</p>
+        <p>"That's not — " Mara started, and stopped, because she didn't actually know how to finish the sentence.</p>
+        <p>"Land used to belong to somebody else," Del said. "Long time ago. Before your family ever came out here. Story goes there was a fire. Whole family died in it, 'cept nobody ever found all the bodies. You want my advice, you follow the rules. Ruth did, and she lived to eighty-six. Her mother didn't, and she didn't make it past forty."</p>
+        <p>"Her mother broke a rule?"</p>
+        <p>Del looked at her for a long moment. "Rule Six," he said finally. "Story goes she saw her own mother standing in the yard one night, and she let her in anyway. Because who wouldn't? Who's gonna leave their own mother standing out in the cold?"</p>
+        <p>He didn't say what happened after that. Mara didn't ask.</p>
+
+        <h2>CHAPTER FIVE: THE SECOND KNOCK</h2>
+        <p>The second knock came nine days later, and this time Mara was ready for it — or thought she was.</p>
+        <p><em>One. Two. Three.</em></p>
+        <p>She sat at the kitchen table with all the lights on, a knife from the block in front of her that she had no intention of using and every intention of holding onto.</p>
+        <p><em>Four. Five.</em></p>
+        <p>The knocking was coming from the front door this time. Slower than before. Almost thoughtful.</p>
+        <p><em>Six.</em></p>
+        <p>And then, right before the seventh knock, a voice came through the wood — soft, familiar, achingly familiar in a way that made Mara's whole body go cold.</p>
+        <p><em>"Mara, honey, it's Grandma. I forgot my key. Let me in, it's freezing out here."</em></p>
+        <p>It was Ruth's voice. Exactly Ruth's voice, down to the particular rasp at the end of every sentence that came from forty years of cigarettes.</p>
+        <p>Mara's hand was on the deadbolt before she even realized she'd stood up. <em>Rule Six. If you ever see me standing in the yard, I am not your grandmother.</em></p>
+        <p>She stopped with her fingers on the cold metal, shaking.</p>
+        <p><em>"Mara. Sweetheart. I raised you every summer till you were twelve. You remember that, don't you? Let me in."</em></p>
+        <p>For one terrible, splitting second, Mara wanted so badly to open the door that her hand actually turned the lock. Then she looked through the window beside the door, and she saw her.</p>
+        <p>Ruth Coleman, standing in the yard in the moonlight, wearing the blue housedress she'd been buried in. Smiling. Her eyes were the wrong color — not the warm brown Mara remembered, but a flat, depthless black, like something behind them had been scooped out and replaced with nothing at all.</p>
+        <p>Mara backed away from the door, slow and silent. The knocking stopped. The voice, when it came again, was lower, wrong in a way that made Mara's teeth hurt.</p>
+        <p><em>"You'll let me in eventually,"</em> it said, almost gently. <em>"They always do. Everyone does, eventually. It's just a matter of which night."</em></p>
+
+        <h2>CHAPTER SIX: THE ROOT CELLAR</h2>
+        <p>She should have left. Any sane person would have packed a bag and driven back to the city. But there was a question sitting in her chest: why her family? Why had this entity attached itself to three generations of Coleman women?</p>
+        <p>The answer was in the root cellar.</p>
+        <p><em>Don't go in the root cellar after sundown, Rule Three said.</em> It didn't say anything about noon on a bright, ordinary Tuesday. Mara pulled up the rag rug, opened the groaned hinges, and climbed down with her phone flashlight leading the way.</p>
+        <p>Inside was a steamer trunk with a rusted lock that broke apart in her hands. Inside were photographs and dozens of letters going back a hundred years. The land had belonged to a family named Voss. A fire had consumed the home, but the mother — Agatha Voss — had survived inside the root cellar. Surviving that fire while her whole family died had changed what she was.</p>
+        <p>She wasn't evil, exactly. She just wanted back inside a house. Any house. Whichever one was closest to a family that might mistake her for one of their own.</p>
+        <p>The rules were a barrier to keep her out. It was a slow, patient siege that had been going on for four generations.</p>
+
+        <h2>CHAPTER SEVEN: THE SEVENTH KNOCK</h2>
+        <p>The last letter in the trunk was from Ruth.</p>
+
+        <blockquote>
+            <p>If you're reading this, you found the cellar... Here's what none of the others wrote down: the rules don't just keep her out. They're also how you end it.</p>
+            <p>She only has power on nights when someone in the house is alone... But if you want her gone, you have to let her get to the seventh knock. You have to open the door. And then, before she crosses the threshold, you have to say her real name: <strong>Agatha Voss</strong>.</p>
+            <p>Saying it reminds her what she is. What she lost. Real grief is the only thing strong enough to send something like her back. Finish it. Please.</p>
+            <p><strong>— Ruth</strong></p>
+        </blockquote>
+
+        <p>Mara sat in the cellar until the light turned gone. She climbed into a dark kitchen and did not turn on the hallway light.</p>
+
+        <h2>CHAPTER EIGHT: WHAT ANSWERS THE DOOR</h2>
+        <p>The knocking started at 11:47 PM. <em>One.</em></p>
+        <p>Mara stood in the front hall, barefoot, her grandmother's letter in hand. Outside, Ruth's blue housedress swayed in the moonlight with that flat black nothing behind her eyes.</p>
+        <p><em>Two. Three. Four. Five. Six.</em></p>
+        <p>"I'm not afraid of you," Mara said.</p>
+        <p><em>Seven.</em> Silence stretched out, thin as wire.</p>
+        <p>Mara turned the deadbolt and swung the door open. The cold poured in. The shape stepped forward, one bare foot crossing onto the threshold —</p>
+        <p><strong>"Agatha Voss,"</strong> Mara said.</p>
+        <p>The creature stopped. "Agatha," Mara said again, softer. "Your family's gone. The fire took them a long time ago. You survived... You don't have to keep doing this. You can stop."</p>
+        <p>For one single moment, Mara saw the face beneath the face: a young woman, soot-streaked, reaching away from the fire. And then Agatha Voss was gone — like a candle-flame absence, cold night rushing in to fill the space. The yard was empty.</p>
+
+        <h2>EPILOGUE</h2>
+        <p>The letters in the cellar are gone now — Mara burned them, all except her grandmother's last one. She took the six index cards down the morning after.</p>
+        <p>She still locks the doors by nine. Still keeps the hallway light on every night out of stubborn instinct.</p>
+        <p>And every once in a while — on the coldest nights — she wakes up at 11:47 PM to a heavy silence, and she lies very still, and she counts.</p>
+        <p>She never gets past one.</p>
+    `,
+    isHero: true
+
     },
     {
         id: "2",
