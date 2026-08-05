@@ -1,0 +1,471 @@
+/* ==========================================================================
+   HorrorExcerptsUSA — Cinefreak Inspired Deep Dark Theme (Cyan Accent)
+   Author: Mubarak Hossain Akash
+   ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;900&family=Inter:wght@300;400;600&display=swap');
+
+:root {
+    --bg-dark: #0d0c10;
+    /* Deep midnight charcoal background */
+    --bg-card: #16141a;
+    /* Premium card tone */
+    --bg-card-hover: #201c26;
+    /* Hover effect background */
+    --blood-red: #00e5ff;
+    /* Bright Cyan Accent */
+    --blood-glow: #00e5ff;
+    /* Glow Cyan */
+    --text-primary: #f1eff5;
+    /* High contrast readable text */
+    --text-muted: #948e9e;
+    /* Muted gray for metadata */
+    --border-color: #24202c;
+    /* Subtle dark border */
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+    /* Prevents unwanted side scroll on mobile */
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: var(--bg-dark);
+    background-image: radial-gradient(circle at 50% 0%, #131d26 0%, var(--bg-dark) 70%);
+    background-attachment: fixed;
+    color: var(--text-primary);
+    line-height: 1.6;
+}
+
+.container {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+
+h1,
+h2,
+h3,
+.logo,
+.badge,
+.read-btn,
+.search-btn {
+    font-family: 'Cinzel', serif;
+    letter-spacing: 0.5px;
+}
+
+/* ==========================================================================
+   Navbar
+   ========================================================================== */
+.navbar {
+    background: rgba(13, 12, 16, 0.92);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border-color);
+    padding: 14px 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.logo {
+    font-size: 22px;
+    font-weight: 900;
+    color: var(--text-primary);
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.logo span {
+    color: var(--blood-red);
+}
+
+.nav-links {
+    display: flex;
+    gap: 18px;
+}
+
+.nav-links a,
+.back-btn {
+    color: var(--text-muted);
+    text-decoration: none;
+    font-size: 13.5px;
+    font-weight: 600;
+    transition: color 0.2s ease;
+}
+
+.nav-links a:hover,
+.back-btn:hover {
+    color: var(--blood-glow);
+}
+
+/* ==========================================================================
+   Hero Section & Search Bar
+   ========================================================================== */
+.hero-section {
+    padding: 40px 0 30px;
+    background: transparent;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.eyebrow {
+    display: block;
+    text-align: center;
+    color: var(--blood-red);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+.hero-title {
+    font-size: 38px;
+    font-weight: 900;
+    color: #ffffff;
+    text-align: center;
+    line-height: 1.15;
+}
+
+.hero-title .accent {
+    color: var(--blood-red);
+    text-shadow: 0 0 10px rgba(0, 229, 255, 0.3);
+}
+
+.hero-subtitle {
+    text-align: center;
+    font-size: 14px;
+    color: var(--text-muted);
+    margin: 10px 0 24px;
+}
+
+.search-box {
+    max-width: 520px;
+    margin: 0 auto 30px;
+    display: flex;
+    gap: 8px;
+    width: 100%;
+}
+
+.search-box input {
+    flex: 1;
+    padding: 11px 16px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    color: var(--text-primary);
+    border-radius: 6px;
+    font-size: 13.5px;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.search-box input:focus {
+    border-color: var(--blood-red);
+}
+
+.search-btn {
+    padding: 0 20px;
+    background: var(--bg-card);
+    color: var(--blood-red);
+    border: 1px solid var(--blood-red);
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: 700;
+    transition: background 0.2s, color 0.2s;
+}
+
+.search-btn:hover {
+    background: var(--blood-red);
+    color: #000;
+}
+
+/* ==========================================================================
+   Ads / Sponsor Slot (Responsive Fixes)
+   ========================================================================== */
+.ad-wrapper {
+    margin: 30px auto;
+    text-align: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.ad-label {
+    font-size: 10px;
+    color: var(--text-muted);
+    letter-spacing: 1.5px;
+    margin-bottom: 6px;
+    display: block;
+}
+
+.ad-box {
+    background: var(--bg-card);
+    border: 1px dashed var(--border-color);
+    padding: 12px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90px;
+    max-width: 100%;
+    overflow-x: auto;
+    /* Screen-overflow fix for Adsterra 728px banners */
+}
+
+.ad-box iframe {
+    max-width: 100% !important;
+}
+
+/* ==========================================================================
+   Cards & Grid Layout
+   ========================================================================== */
+.main-posts {
+    padding: 40px 0;
+}
+
+.section-title {
+    font-size: 26px;
+    color: #ffffff;
+    text-align: center;
+    margin-bottom: 6px;
+}
+
+.section-sub {
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 13.5px;
+    margin-bottom: 28px;
+}
+
+.hero-grid,
+.post-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 22px;
+}
+
+.card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    border-color: rgba(0, 229, 255, 0.5);
+    box-shadow: 0 12px 25px rgba(0, 0, 0, 0.8), 0 0 18px rgba(0, 229, 255, 0.15);
+}
+
+.card-img-wrap {
+    width: 100%;
+    height: 190px;
+    overflow: hidden;
+    position: relative;
+}
+
+.card-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 12px 12px 0 0;
+    transition: transform 0.3s ease;
+}
+
+.card:hover .card-img {
+    transform: scale(1.05);
+}
+
+.card-body {
+    padding: 18px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.badge {
+    display: inline-block;
+    color: var(--blood-red);
+    font-size: 10.5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+}
+
+.card-title {
+    font-size: 18.5px;
+    font-weight: 700;
+    color: #ffffff;
+    line-height: 1.3;
+    margin-bottom: 10px;
+}
+
+.card-summary {
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-bottom: 16px;
+    line-height: 1.5;
+}
+
+.read-btn {
+    display: block;
+    width: 100%;
+    text-align: center;
+    background: rgba(0, 229, 255, 0.08);
+    color: var(--blood-glow);
+    padding: 10px 0;
+    border: 1px solid var(--blood-red);
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 12.5px;
+    font-weight: 700;
+    transition: background 0.2s, color 0.2s;
+}
+
+.card:hover .read-btn {
+    background: var(--blood-red);
+    color: #000;
+}
+
+/* ==========================================================================
+   Article Page
+   ========================================================================== */
+.article-container {
+    max-width: 740px;
+    padding: 40px 16px;
+}
+
+.article-title {
+    font-size: 34px;
+    line-height: 1.2;
+    color: #ffffff;
+    margin-bottom: 12px;
+}
+
+.article-meta {
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-bottom: 24px;
+}
+
+.article-banner {
+    width: 100%;
+    height: 360px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 24px;
+    border: 1px solid var(--border-color);
+}
+
+.article-body {
+    font-size: 16.5px;
+    line-height: 1.8;
+    color: var(--text-primary);
+}
+
+.article-body p {
+    margin-bottom: 20px;
+}
+
+.article-body h2 {
+    font-size: 22px;
+    color: var(--blood-glow);
+    margin: 32px 0 12px;
+}
+
+.warning-tag {
+    display: inline-block;
+    background: rgba(0, 229, 255, 0.1);
+    color: var(--blood-glow);
+    border: 1px solid var(--blood-red);
+    padding: 4px 12px;
+    font-size: 12px;
+    font-weight: 700;
+    border-radius: 4px;
+    margin-bottom: 20px;
+}
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+footer {
+    background: #08070a;
+    border-top: 1px solid var(--border-color);
+    padding: 30px 0;
+    text-align: center;
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-top: 40px;
+}
+
+footer .author-credit {
+    color: var(--blood-red);
+    font-weight: 600;
+}
+
+.footer-links {
+    margin-top: 12px;
+}
+
+.footer-links a {
+    color: var(--text-muted);
+    text-decoration: none;
+    margin: 0 6px;
+}
+
+.footer-links a:hover {
+    color: #ffffff;
+}
+
+/* ==========================================================================
+   Responsive Queries (Mobile First Fixes)
+   ========================================================================== */
+@media (max-width: 600px) {
+    .hero-title {
+        font-size: 28px;
+    }
+
+    .article-title {
+        font-size: 24px;
+    }
+
+    .article-banner {
+        height: 220px;
+    }
+
+    .hero-grid,
+    .post-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .navbar-container {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .search-box {
+        flex-direction: row;
+    }
+}
