@@ -10,7 +10,7 @@ const posts = [
     title: "Seven Knocks",
     category: "Psychological Horror",
     readTime: "12 min read",
-    image: "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?w=800", // Dark / Black themed horror image
+    image: "https://i.ibb.co.com/d0xg59WZ/Ghost-2-K-202608060011.jpg", // Dark / Black themed horror image
     summary: "Rule #1: Never answer the door after the seventh knock. When Mara inherits her late grandmother's farmhouse in rural Ohio, she finds six strange rules taped inside a cabinet.",
     content: `
         <span class="warning-tag">READER DISCRETION ADVISED — PSYCHOLOGICAL HORROR</span>
