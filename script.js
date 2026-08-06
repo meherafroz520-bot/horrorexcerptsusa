@@ -9,7 +9,7 @@ const posts = [
         title: "The House Has Six Rules — Part 1",
         category: "Psychological Horror",
         readTime: "12 min read",
-        image: "https://i.ibb.co.com/whqvbwCc/The.png",
+        image: "https://i.ibb.co.com/MDNC0Y5z/The.jpg",
         summary: "Rule #1: Never answer the door after the seventh knock. When Mara inherits her late grandmother's farmhouse in rural Ohio, she finds six strange rules taped inside a cabinet.",
         content: `
             <span class="warning-tag">READER DISCRETION ADVISED — PSYCHOLOGICAL HORROR</span>
