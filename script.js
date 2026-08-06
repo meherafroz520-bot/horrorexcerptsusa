@@ -137,7 +137,7 @@ const posts = [
             <p>And every once in a while — on the coldest nights — she wakes up at 11:47 PM to a heavy silence, and she lies very still, and she counts.</p>
             <p>She never gets past one.</p>
          `,
-        isHero: false
+        isHero: true
     }, 
     {
         id: "seven-knocks-part-2",
