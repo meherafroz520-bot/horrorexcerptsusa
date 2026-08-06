@@ -138,6 +138,119 @@ const posts = [
             <p>She never gets past one.</p>
         `,
         isHero: true
+        {
+        id: "seven-knocks-part-2",
+        title: "The House Has Six Rules — Part 2: What the Attic Remembers",
+        category: "Psychological Horror",
+        readTime: "18 min read",
+        image: "https://i.ibb.co.com/nsCk0cXx/remake-all-are-same-2-K-202608062229.jpg",
+        summary: "Mara Coleman thought saying a dead woman's name was enough to end it. She was wrong. Six months after Agatha Voss disappeared, Mara starts finding things in the attic with her own handwriting on them—dated years before she was born.",
+        content: `
+            <span class="warning-tag">READER DISCRETION ADVISED — PSYCHOLOGICAL HORROR</span>
+            <p><em>Contains themes of grief, mild violence, and supernatural thriller elements. Sequel to Seven Knocks.</em></p>
+
+            <h2>PROLOGUE</h2>
+            <p>Mara Coleman told herself the house was safe now.</p>
+            <p>She'd said the name. She'd stood in her own front hallway with her heart trying to climb out through her throat and watched the thing wearing her grandmother's face come apart like ash caught in a wind that only existed for it. She'd gone to bed that night — actually slept, for the first time in weeks — and woken up to sunlight instead of dread, and for a while, that had felt like enough.</p>
+            <p>For six months, the doors stayed unlocked past nine some nights. The hallway light still burned out of habit rather than necessity. Nothing knocked. Nothing waited in the cornfields when she came home late from the grocery store in Millhaven, headlights sweeping across rows of dead stalks that stayed exactly as still and empty as ordinary cornfields were supposed to stay.</p>
+            <p>She let herself believe, slowly, the way you let yourself believe a wound has actually healed instead of just closed over: that a hundred-year debt could really end with one sentence spoken bravely enough. That grief, once named, lost its teeth.</p>
+            <p>She was wrong. It hadn't ended.</p>
+            <p>It had only gone quiet — the particular, listening quiet of water right before it starts to boil, when everything on the surface looks calm and everything underneath is already changing.</p>
+
+            <h2>CHAPTER ONE: THE BOX IN THE RAFTERS</h2>
+            <p>The attic access was a small square panel set into the hallway ceiling, painted over so many times it had practically fused shut, and in six months of living in the farmhouse, Mara had never once opened it. There had been no reason to. The house had plenty of other places to store the past — the root cellar, the cabinet above the flour tin, the drawer where she kept her grandmother's last letter folded into a square soft as cloth from being unfolded and refolded so many times. The attic had simply never called attention to itself.</p>
+            <p>Until the night in early spring when the hallway light — the one Rule Five had always insisted she keep burning, the one she still kept burning though the danger it was meant to guard against was supposedly gone — began flickering directly beneath that ceiling panel. Only beneath it. Not the bulb itself failing, not a loose wire; the light dimmed and brightened in a rhythm too deliberate to be electrical, like something was pressing its weight against the other side of the wood, testing how much give the old boards had left.</p>
+            <p>Mara stood under it in her socks at eleven at night, watching the light stutter, and told herself, out loud, in the calm and slightly too-reasonable voice of someone who has learned the hard way not to trust her own calm: <em>Raccoons. Ohio attics get raccoons.</em></p>
+            <p>She climbed up anyway. Flashlight gripped in her teeth because both hands were busy on the ladder, heart doing the slow, cold climb it always did now whenever the house stopped behaving like an ordinary house — a feeling she'd hoped, six months ago, she was finally done learning to recognize.</p>
+            <p>The attic swallowed the flashlight beam in every direction at once. Insulation, pink and sagging, humped along the joists like sleeping animals. A rocking chair with one arm snapped clean off, angled in the corner as if someone had stood up from it very suddenly and never come back to finish the thought. Dust thick enough, in places, to hold the shape of footprints — small ones, bare, leading from the access panel toward the far wall and stopping there, at nothing, at a blank slope of roofline with no door and no window and no reason for footprints to end.</p>
+            <p>Mara did not let herself think too hard about the footprints. She followed where they pointed instead.</p>
+            <p>In the far corner, half-hidden beneath a sheet gone the yellow-gray of very old cotton, sat a small wooden box. Not large — the size of a shoebox, maybe smaller — with a lid of dark, dense wood that had survived whatever damp and cold an Ohio attic could throw at it for what looked like a very long time.</p>
+            <p>Burned into that lid, in letters deep enough to run her fingertip along the char, was her name.</p>
+            <p><strong>MARA.</strong></p>
+            <p>Not Coleman. Not any family surname that might have belonged, plausibly, to some other Mara in some other generation. Just Mara, five letters, burned into wood that — when she checked the growth rings later that week, sawing off a sliver with her grandfather's old pocketknife and counting under a kitchen lamp with a magnifying glass she'd bought specifically for this purpose, because some part of her needed to know and couldn't stand not knowing — was at least sixty years old.</p>
+            <p>She was thirty-one. She had not been born for another thirty years after that wood was cut from whatever tree it came from.</p>
+            <p>She sat with that fact for a long time before she made herself open the box.</p>
+            <p>Inside: a child's drawing, the paper gone soft and fragile as moth wings, crayon strokes faded to pale ghosts of whatever colors they'd started as. It showed the farmhouse — unmistakably the farmhouse, drawn with the particular lopsided confidence of a child who has looked at something every day of her life and doesn't need to get the proportions right to know exactly what it is. In the yard, two stick figures stood holding hands. One tall. One small.</p>
+            <p>Beneath the drawing, in handwriting Mara recognized immediately and completely, because it was her own handwriting — the same slight backward slant she'd never quite grown out of, the same lazy, looping tail on every lowercase g that her third-grade teacher used to circle in red pen — was a single sentence, written by a hand that could not possibly have been hers, at a time before she existed to have a hand at all.</p>
+            <p><em>"I let her in. I'm sorry. Tell them I'm sorry."</em></p>
+            <p>Mara sat in the attic dust with the flashlight beam trembling slightly across the page, and felt something inside her chest go very still and very cold, the way a held breath goes still right before it becomes a scream that never quite makes it out.</p>
+
+            <h2>CHAPTER TWO: THE PHONE CALL</h2>
+            <p>She waited until morning to call Del Ashworth, mostly because some old instinct told her that whatever was happening in this house got stronger, or at least braver, after dark, and she didn't want to have this conversation while the sun was somewhere she couldn't see it.</p>
+            <p>Del picked up on the third ring, the way he always did, sounding like a man who had been up for hours doing something with his hands and was mildly inconvenienced to be doing something with his mouth instead.</p>
+            <p>"You said Agatha only got one family closer to what she wanted," Mara said, without preamble, standing at her kitchen table with the wooden box open in front of her, the drawing weighted flat under a coffee mug so it wouldn't curl back into the tight little roll it had spent decades learning to be. "Closer to what, Del? You never actually finished that thought."</p>
+            <p>There was a silence on the line long enough that Mara checked her phone screen to make sure the call hadn't dropped.</p>
+            <p>"There's a reason the rules never said what happens if you win," Del said finally, and his voice had lost its usual unhurried ease. "Nobody ever won before, Mara. Not like you did. Ruth didn't — she followed the rules her whole life and died in her bed, which was a win of a kind, I suppose, but she never made Agatha <em>leave</em>. Her mother didn't. Nobody in your family, far back as anyone remembers, ever got that thing to walk off the property for good and not come back."</p>
+            <p>"Then how do you know anything happens after at all? If nobody's ever gotten this far?"</p>
+            <p>Del exhaled, long and slow, the sound of a man deciding, again, how much a person needed to know before knowing it stopped being a kindness.</p>
+            <p>"Because my grandfather used to say Agatha wasn't the only thing living out past that cornfield," he said. "Said it more than once, usually after a couple beers, usually looking off toward your family's land like he could see something out there the rest of us couldn't. He used to say Agatha was just the <em>polite</em> one. The one that knocked. The one that asked permission before it came in."</p>
+            <p>Mara's hand tightened around the phone. "And the others don't ask?"</p>
+            <p>"My grandfather," Del said, "never got specific enough for me to answer that. He died before I thought to push him on it. I always figured it was just an old man's talk, something to make a scary story scarier. Until you called me this morning sounding the way you sound right now."</p>
+
+            <h2>CHAPTER THREE: THE THING WITHOUT A NAME</h2>
+            <p>That night, Mara didn't lock the doors.</p>
+            <p>It felt like a small betrayal of everything Rule One had ever taught her, sitting at the kitchen table at half past eleven with every deadbolt thrown open and the box lid propped beside her, the child's drawing pinned flat under her palm like she could hold down whatever truth it contained through sheer physical pressure. But some instinct — newer than the fear, and colder — told her that whatever was coming wasn't going to be kept out by a lock. Locks had only ever worked on things polite enough to respect them.</p>
+            <p>At 11:47 PM — the same minute it always was, she'd noticed that pattern months ago and never once found a reason for it — the hallway light didn't flicker the way it had every other time.</p>
+            <p>It went out completely. All at once, like something had reached up and closed a hand around it.</p>
+            <p>In the sudden dark, something breathed.</p>
+            <p>Not from outside the house, carried in on wind through some gap in a window frame. From inside it. Close. Close enough that Mara felt warm, damp air move against the back of her neck, the specific intimate wrongness of breath where no living thing should have been standing — and when she spun around, faster than thought, the kitchen behind her was empty, the black window glass reflecting nothing back at her but her own wide, frightened eyes.</p>
+            <p>A voice came then, from everywhere and nowhere at once, low and strangely layered, as though a dozen different throats were trying to shape the same words in the same instant and not quite managing to land on the same rhythm.</p>
+            <p><em>"She was polite,"</em> it said, and the word <em>polite</em> came out sounding almost fond, almost mocking. <em>"She knocked. She asked. That was her way, and it cost her everything — you made certain of that, didn't you, clever girl. I don't ask."</em></p>
+            <p>Mara's hand found the edge of the table and gripped it, steadying herself against a wave of dizziness that felt less like ordinary fear and more like the specific vertigo of standing at the top of a very long staircase in the dark, not knowing how many steps there were before the bottom.</p>
+            <p><em>"You know my name already,"</em> the voice went on, and there was something almost like amusement threaded through the layered tones now, patient and old and entirely unbothered by her fear. <em>"You wrote it yourself, child, thirty years before you were old enough to hold a crayon steady. That's how this works. That's how it has always worked, in this house, on this land. Agatha waited politely for an invitation, because that was the shape of debt she understood. I don't wait for invitations. I collect on debts that are already owed — signed, in a manner of speaking, long before you were born to sign anything. Your family has owed this house a great deal longer than one hundred years, Mara Coleman. Agatha was only ever the smallest fraction of the bill."</em></p>
+            <p>The kitchen light came back on all at once — blinding, after the total dark, forcing her eyes shut for a moment against the sudden white glare — and when she opened them again, the room was empty. Box still on the table. Drawing still pinned beneath her palm, the small stick figures still holding hands in their faded crayon yard. Nothing physically disturbed.</p>
+            <p>Except the cold, sick certainty settling into her chest, heavy and permanent as a stone dropped into still water, that ending Agatha Voss had never closed a door at all.</p>
+            <p>It had only revealed the one standing behind it.</p>
+
+            <h2>CHAPTER FOUR: WHAT THE LETTERS DIDN'T SAY</h2>
+            <p>Mara spent the next three days back in the root cellar, working through every letter a second time by the yellow cone of a battery lantern, searching for anything she might have skimmed past the first time — a name, a warning, a single sentence that might tell her what, exactly, she was supposed to be afraid of now that the thing she'd already been afraid of was gone.</p>
+            <p>She found it, in the end, tucked into the very last line of the very first letter in the trunk — the oldest one, written in a hand so cramped and careful it looked like it had been formed by someone terrified of running out of paper before running out of things that needed saying. She had read past this sentence too quickly the first time, back when she still believed Agatha Voss was the whole story instead of merely its opening chapter, its most talkative and most forgivable character.</p>
+            <p><em>The land remembers every family that has ever asked it for help, and it never once forgets a debt, however small, however desperate the asking. Agatha only ever wanted back inside a house — any house, any family that might, in a low light, be mistaken for her own. What waits beneath her wants something older than that, something none of us have ever had the courage to name outright even to each other, let alone to it. It wants what every family who has ever lived on this land eventually promised it, in some dark and desperate hour, without ever understanding that a promise was being made at all.</em></p>
+            <p>Mara sat back on her heels in the cellar dust, the lantern light trembling faintly across the page in time with her own unsteady breathing, and thought — helplessly, inevitably — of the drawing in the attic box. Two stick figures. One tall, one small, holding hands in a yard that had never, in all the years Mara had known it, actually felt safe to stand in after dark.</p>
+            <p><em>I let her in.</em></p>
+            <p>Not Agatha — the sentence's tense didn't match, hadn't matched from the first time she'd read it, though she'd been too frightened that first night to notice. Someone else. Someone the letter's author had never had the nerve to write down by name, someone still waiting, patiently, thirty years before Mara herself had been born, for a version of Mara who hadn't happened yet to make a choice her whole family had apparently been circling around, without ever quite naming, for four generations.</p>
+            <p>Someone the house was still waiting for her to invite in.</p>
+
+            <h2>CHAPTER FIVE: THE SEVENTH RULE</h2>
+            <p>She found it on the fourth day, taped to the underside of the same shelf where the trunk had sat undisturbed for who knew how many decades — a single card, older and more brittle than the other six she'd found in the kitchen cabinet all those months ago, the ink faded to the color of dried rust, the tape so old it crumbled to powder the moment her fingers touched it.</p>
+            <blockquote>
+                <p><strong>RULE SEVEN:</strong> The house does not end with one guest leaving. It ends when no one is left who owes it anything. Break the chain, or become its next debt.</p>
+            </blockquote>
+            <p>Mara read it three times, sitting in the dust with the lantern hissing softly beside her, before the meaning finished settling into her like cold water finding every low place in a floor.</p>
+            <p>Every Coleman woman before her — her great-great-grandmother, her great-grandmother, her grandmother Ruth — had followed the six rules, survived the knocking, and eventually passed the house down to a daughter who inherited the fear without ever fully inheriting the reason for it. A tidy, terrible cycle, each generation buying just enough safety to hand the real cost forward, unopened, like a letter nobody had the courage to read aloud. Ruth had been the first to finally break that pattern — the first to say Agatha's true name and watch her come apart in the yard instead of simply outlasting her for one more lifetime.</p>
+            <p>But naming Agatha had never erased the debt underneath her.</p>
+            <p>It had only pulled back the first layer of a much older arrangement, the way peeling old wallpaper reveals another, uglier pattern painted directly onto the plaster beneath it.</p>
+            <p>And debts, Mara understood now — sitting alone in a cellar a hundred years deep in her own family's carefully maintained silence — did not simply dissolve because a person finally stopped being afraid of them. They waited. Patiently, the way Agatha herself had once waited in a moonlit yard. They waited for someone brave enough, or foolish enough, or simply tired enough of being frightened, to actually try paying them off.</p>
+
+            <h2>CHAPTER SIX: THE THINGS DEL DIDN'T SAY THE FIRST TIME</h2>
+            <p>She drove out to Del's place that evening, unable to sit in the farmhouse with what she now knew and not do something with the knowing. He met her on the porch before she'd even finished parking, like he'd been watching the gravel road since her phone call three days before.</p>
+            <p>"You found something," he said. Not a question.</p>
+            <p>She told him about the box. The drawing. Rule Seven. He listened with his jaw set, the way men from Millhaven listened to bad news about weather or crops — accepting it before they'd finished hearing it, because some part of them had already known it was coming.</p>
+            <p>"My grandfather," Del said slowly, when she'd finished, "used to say there were two kinds of things that lived on land like yours. The kind that used to be people — Agatha's kind, the ones with grief still shaped like a person, still remembering what it felt like to want a door opened for them. And then the other kind."</p>
+            <p>"What's the other kind?"</p>
+            <p>Del looked out at the darkening fields for a long moment before he answered. "The kind that was never a person to begin with. The kind the land itself grows, given enough time and enough fear fed into it. My grandfather never called it anything but <em>the debt collector.</em> Said it didn't want a house. Didn't even particularly want <em>you.</em> It just wanted the account settled, one way or another, and it didn't much care whose name ended up signing for it."</p>
+            <p>"Settled how?"</p>
+            <p>Del's silence was answer enough. When he finally spoke again, his voice had gone rough. "He never said. I don't think he knew. I don't think anyone in a hundred years has lived long enough after asking that question to come back and tell the rest of us."</p>
+
+            <h2>CHAPTER SEVEN: THE OFFER</h2>
+            <p>That night, Mara didn't wait for the knocking. She stood in the kitchen at 11:40 PM — seven minutes early, on purpose, because she had decided, somewhere on the drive home from Del's place, that she was done letting this house set every rhythm of her own fear — with Rule Seven's brittle card in one hand and her grandmother's last letter, worn soft from months of folding, in the other.</p>
+            <p>She spoke into the dark before the dark had a chance to speak first.</p>
+            <p>"I know you're not Agatha," she said, and her voice, to her own quiet surprise, came out steady. "I know you've been waiting a lot longer than she ever did. I'm not going to run from this house. And I am not going to hand it down to some other woman's daughter thirty years from now just so I don't have to be the one who deals with you myself."</p>
+            <p>The temperature dropped so fast her breath fogged visibly in front of her, a small pale cloud hanging in air that had been warm a heartbeat earlier.</p>
+            <p><em>"Brave words,"</em> the voice said, and it was closer now than it had ever managed to get before — right behind her shoulder, close enough that she felt the wrongness of that unbreathing cold against her skin — though when she turned, fast, there was nothing in the empty kitchen doorway but shadow and the hum of the refrigerator. <em>"Everyone speaks brave words, Mara Coleman. Every single one, right up until they understand exactly what settling a debt this old actually requires of them."</em></p>
+            <p>"Then tell me," she said, refusing to let the shake she felt building in her knees travel up into her voice. "Tell me what it costs. I am done inheriting a fear I was never given the reasons for. If this house wants something from my family, it can ask <em>me</em>, directly, instead of hiding behind a hundred years of women too frightened to ever ask it what it actually wanted in return."</p>
+            <p>Silence answered her — a long, weighing silence, different in texture from every silence that had come before it. The kind of silence, Mara thought, that suggested whatever lived beneath her family's land had not, in all its patient waiting, ever once been asked a direct question and expected to give a direct answer back.</p>
+            <p><em>"Come to the cornfield at midnight,"</em> it said at last, and there was something in the layered voices now that might almost, impossibly, have been respect. <em>"Alone. No rules to hide behind this time, no cabinet cards, no borrowed names. If you truly wish to end this — not delay it, not hand it forward, but end it — you will have to do what no woman in your family has ever once been willing to do. You will have to face it without a door between us."</em></p>
+
+            <h2>CHAPTER EIGHT: THE WALK TO THE FIELD</h2>
+            <p>Mara did not sleep between 11:47 and midnight. She sat at the kitchen table with the lights all burning, the box and the letters and both grandmothers' handwriting spread in front of her like a map she still couldn't quite read, and she thought about every rule that had ever kept a Coleman woman alive long enough to become the next warning taped inside a cabinet.</p>
+            <p>At three minutes to midnight, she stood, and pulled on her boots, and walked out through the front door she had left unlocked all evening, into a yard gone silver and strange under a moon three-quarters full.</p>
+            <p>The cornfield began where the yard ended, no fence between them, just a line where mowed grass gave way to dead stalks standing shoulder-height and higher, rustling with a wind Mara could not feel against her own skin. She stood at that boundary for a long moment, Rule Seven's card folded into her coat pocket, her grandmother's letter pressed flat against her heart, and made herself take the first step past the tree line of corn into the dark beyond it.</p>
+            <p>Behind her, the farmhouse's one lit window shrank smaller with every row she crossed, until it was barely a coin of gold hanging in a black and endless field, and Mara understood, walking forward into a cornfield that seemed, impossibly, to have no far edge at all tonight, that whatever waited for her out there had been waiting a great deal longer than one hundred years — and that for the first time in four generations, a Coleman woman was finally walking toward it instead of away.</p>
+            
+            <p><em>To be continued in Part 3: The Cornfield at Midnight...</em></p>
+        `,
+        isHero: true
     },
     {
         id: "2",
@@ -155,7 +268,7 @@ const posts = [
             <h2>The Report I Didn't File</h2>
             <p>I found the fourth cow two ridges over the next morning. Untouched, uninjured, standing perfectly still, staring at nothing. She never made a sound again after that night, and neither, if I'm honest, have I gone looking for what was on that ridge.</p>
         `,
-        isHero: true
+        isHero: false
     },
     {
         id: "3",
