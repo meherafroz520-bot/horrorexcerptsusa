@@ -9,7 +9,7 @@ const posts = [
         title: "The House Has Six Rules — Part 1",
         category: "Psychological Horror",
         readTime: "12 min read",
-        image: "https://i.ibb.co.com/MDNC0Y5z/The.jpg",
+        image: "https://i.ibb.co.com/vbMgSRD/remake-part-1-2-K-202608062344.jpg",
         summary: "Rule #1: Never answer the door after the seventh knock. When Mara inherits her late grandmother's farmhouse in rural Ohio, she finds six strange rules taped inside a cabinet.",
         content: `
             <span class="warning-tag">READER DISCRETION ADVISED — PSYCHOLOGICAL HORROR</span>
@@ -144,7 +144,7 @@ const posts = [
         title: "The House Has Six Rules — Part 2: What the Attic Remembers",
         category: "Psychological Horror",
         readTime: "18 min read",
-        image: "https://i.ibb.co.com/nsCk0cXx/remake-all-are-same-2-K-202608062229.jpg",
+        image: "https://i.ibb.co.com/B5hS1Np0/remake-2-K-202608062341.jpg",
         summary: "Mara Coleman thought saying a dead woman's name was enough to end it. She was wrong. Six months after Agatha Voss disappeared, Mara starts finding things in the attic with her own handwriting on them—dated years before she was born.",
         content: `
             <span class="warning-tag">READER DISCRETION ADVISED — PSYCHOLOGICAL HORROR</span>
