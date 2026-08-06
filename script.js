@@ -136,9 +136,10 @@ const posts = [
             <p>She still locks the doors by nine. Still keeps the hallway light on every night out of stubborn instinct.</p>
             <p>And every once in a while — on the coldest nights — she wakes up at 11:47 PM to a heavy silence, and she lies very still, and she counts.</p>
             <p>She never gets past one.</p>
-        `,
-        isHero: true
-        {
+         `,
+        isHero: false
+    }, 
+    {
         id: "seven-knocks-part-2",
         title: "The House Has Six Rules — Part 2: What the Attic Remembers",
         category: "Psychological Horror",
