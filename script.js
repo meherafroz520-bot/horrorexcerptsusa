@@ -6,7 +6,7 @@
 const posts = [
     {
         id: "seven-knocks",
-        title: "Seven Knocks",
+        title: "The House Has Six Rules — Part 1",
         category: "Psychological Horror",
         readTime: "12 min read",
         image: "https://i.ibb.co.com/d0xg59WZ/Ghost-2-K-202608060011.jpg",
