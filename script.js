@@ -259,7 +259,7 @@ const posts = [
         title: "She Isn't My Daughter Anymore",
         category: "Psychological Horror",
         readTime: "15 min read",
-        image: "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?w=1200",
+        image: "https://i.ibb.co.com/PZnsPyFQ/SHE-ISN-T-MY-DAUGHTER-ANYMORE.jpg",
         summary: "Lily Bennett wandered into the woods behind her home and was gone for three days. When she returned, everyone called it a miracle. Everyone except her mother—who knew the girl was wearing her daughter's face like a coat that didn't fit.",
         content: `
             <span class="warning-tag">READER DISCRETION ADVISED — PSYCHOLOGICAL HORROR</span>
