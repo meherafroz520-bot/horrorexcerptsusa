@@ -254,6 +254,126 @@ const posts = [
         isHero: true
     },
     {
+        
+        id: "she-isnt-my-daughter-anymore",
+        title: "She Isn't My Daughter Anymore",
+        category: "Psychological Horror",
+        readTime: "15 min read",
+        image: "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?w=1200",
+        summary: "Lily Bennett wandered into the woods behind her home and was gone for three days. When she returned, everyone called it a miracle. Everyone except her mother—who knew the girl was wearing her daughter's face like a coat that didn't fit.",
+        content: `
+            <span class="warning-tag">READER DISCRETION ADVISED — PSYCHOLOGICAL HORROR</span>
+            <p><em>Contains themes of child endangerment, grief, changeling folklore, and general horror elements.</em></p>
+
+            <h2>PROLOGUE</h2>
+            <p>Every mother in Fairwood Creek, Oregon, said the same thing when eight-year-old Lily Bennett walked out of the woods on her own, three days after she'd vanished from her own backyard.</p>
+            <p><em>It's a miracle.</em></p>
+            <p>Claire Bennett said it too, out loud, to the reporters, to the search-and-rescue team, to her own mother on the phone at two in the morning. She said the word so many times in the first forty-eight hours that it stopped meaning anything at all, the way any word does when you repeat it past the point of belief.</p>
+            <p>She never said the other thing she was thinking, not to anyone. Not for a long time.</p>
+            <p>The moment she picked her daughter up off the forest floor and held her and breathed in the smell of pine needles and cold earth from her hair, she felt—underneath the relief, underneath the crying, underneath every ounce of a mother's exhausted joy—one small, cold, undeniable certainty.</p>
+            <p><strong>This isn't her. This is wearing her.</strong></p>
+
+            <h2>CHAPTER ONE: THE MIRACLE</h2>
+            <p>The search had gone on for three days by the time they found her.</p>
+            <p>Forty volunteers, two K-9 units, and a state police helicopter that circled the tree line every morning until the fuel ran low. Claire hadn't slept, not really—she'd catch twenty minutes on the couch and jerk awake convinced she'd heard Lily's voice calling from the backyard, only to find the yard empty and the swing set swaying in wind that wasn't there a second before.</p>
+            <p>On the morning of the fourth day, a searcher named Hal Ferris walked into a clearing his own team had already cleared twice—walked past the exact same fallen oak, the exact same patch of ferns—and found Lily sitting cross-legged in the center of it, hands folded in her lap, watching the tree line with a stillness that made even Hal, a forty-year veteran of these woods, feel the hair rise on his arms.</p>
+            <p>She wasn't cold. She wasn't hungry, or thirsty, or dehydrated in any of the ways three days lost in an Oregon forest should have left an eight-year-old girl. Her clothes were clean. Her hair was combed.</p>
+            <p>When Hal knelt down and said her name, she turned her head toward him slowly—not startled, not relieved, not anything Hal had ever seen on the face of a rescued child before—and said, in a voice the search report would later describe as "flat" and "unusually calm for the circumstances":</p>
+            <p><em>"You can stop looking now. I'm right here."</em></p>
+            <p>Claire was in the command tent when the radio call came through. She was running before Hal finished the sentence, through underbrush that tore at her jeans, and when she finally broke into that clearing and saw her daughter sitting there, whole and clean and alive, she didn't think about anything except closing the distance between them.</p>
+            <p>Lily let herself be picked up. Let herself be held and cried over and carried out of those woods in her mother's arms while paramedics jogged alongside, checking a pulse that turned out to be perfectly, unremarkably normal.</p>
+            <p>It was only later—that night, at the hospital, watching her daughter sleep in a bed too big for her, monitors beeping their steady reassurance—that Claire let herself notice the thing she'd felt in that clearing and pushed down every second since.</p>
+            <p>Lily hadn't smelled like Lily. Not exactly. Underneath the pine and the dirt, there'd been something else. Something green and cold and faintly, wrongly sweet, like a flower that bloomed somewhere the sun never quite reached.</p>
+            <p>Claire told herself it was the forest. It was three days of dirt and fear and adrenaline. It was, she told herself, lying in the vinyl hospital chair with her daughter's hand in hers, absolutely nothing at all.</p>
+
+            <h2>CHAPTER TWO: THE THINGS THAT DIDN'T ADD UP</h2>
+            <p>Lily came home on a Tuesday. By Thursday, Claire had a list.</p>
+            <p>She hadn't meant to start one. It happened the way these things always happen—not in one dramatic moment but in a hundred small ones, each easy to explain away on its own, impossible to ignore once they started stacking up.</p>
+            <p>Lily was left-handed now. She'd been right-handed her whole life—Claire had the school photos to prove it, crayon gripped in her right fist in every single one—but now she reached for her fork, her crayons, and her hairbrush with her left hand every single time, like she'd simply forgotten the other one existed.</p>
+            <p>Lily didn't want macaroni and cheese anymore. It had been her favorite food on earth for six straight years, the only thing guaranteed to get her through a bad day, and now she pushed it around her plate with an expression of polite, distant confusion, like she was looking at a food from a country she'd never visited.</p>
+            <p>Lily stopped being afraid of the dark. This, more than anything, was the detail that kept Claire awake—because Lily had slept with a nightlight since she was two years old and had cried real, hiccupping tears any night that bulb so much as flickered, and now she asked, calm as anything, if they could turn it off. "I don't need it anymore, Mom," she said, in that same flat, unhurried voice from the clearing. "It's not dark where I was. Not really."</p>
+            <p>Claire asked her, gently, careful not to spook her, what she meant by that.</p>
+            <p>Lily looked at her for a long moment — a look that had no business belonging on an eight-year-old's face, patient and strange and faintly pitying, like Claire was the child in the conversation—and said only, <em>"I don't remember. I'm not supposed to remember. That's part of the rule."</em></p>
+            <p>Then she smiled, and asked if she could watch cartoons, and the moment closed over like water.</p>
+
+            <h2>CHAPTER THREE: MRS. OKAFOR</h2>
+            <p>Adaeze Okafor had lived three houses down from the Bennetts for eleven years, and in all that time, Claire had exchanged little more with her than waves across the street and the occasional shared bag of extra zucchini from Adaeze's garden. So it surprised her, two weeks after Lily came home, to find the older woman standing on her porch on a Saturday morning, holding a covered dish and wearing an expression Claire had never seen on her before.</p>
+            <p>"I made you a casserole," Adaeze said, which was true, but was also, Claire understood the second their eyes met, not remotely the real reason she was standing there.</p>
+            <p>They sat in the kitchen while Lily watched cartoons in the next room, and Adaeze set the casserole dish down without ceremony and folded her hands on the table like she was preparing to say something she'd been rehearsing.</p>
+            <p>"My grandmother was from a village outside Enugu," she said. "She used to tell us, when we were small, never to go looking for a child who wandered off into the bush after dark. Not because you wouldn't find them. Because you might."</p>
+            <p>Claire's stomach went tight and cold. "What are you saying, Adaeze?"</p>
+            <p>"I'm saying there are old stories, from a lot of places, that all sound the same underneath the details," Adaeze said. "A child goes missing somewhere wild—the woods, the bush, the hills—it doesn't matter where. They come back changed. Not hurt. Not marked. Just wrong, in ways nobody else seems to notice but the mother. The stories call it different things in different languages. Where my grandmother was from, we called it <em>ọgbanje-adjacent</em>—not quite the same thing, but close enough in shape that she made us say the old prayers over any child who came back from the bush after more than a day gone."</p>
+            <p>"You think something happened to Lily out there."</p>
+            <p>"I think," Adaeze said carefully, "that you've been standing on my porch twice this month asking if I've noticed anything different about your daughter, and I think a mother doesn't ask that question about a child she isn't already frightened of."</p>
+            <p>Claire didn't answer. In the next room, cartoon music played, tinny and cheerful, and underneath it, so faint she almost convinced herself she'd imagined it, she heard Lily humming—a tune Claire didn't recognize, in a key that made the hair stand up on her arms, though she could not have said why.</p>
+
+            <h2>CHAPTER FOUR: THE CLEARING</h2>
+            <p>Claire went back to the woods alone eleven days after Lily came home, while her daughter was at a friend's house for the afternoon—the first playdate since the disappearance, and Claire had said yes mostly because it gave her three hours to do the thing she hadn't told anyone she was planning to do.</p>
+            <p>The clearing was easy enough to find; the search team had left it well-marked with flagging tape, faded now to a dull pink from weeks of rain. Claire stood at its center, in the exact spot where Hal Ferris had found her daughter sitting cross-legged and calm, and turned in a slow circle, looking for anything — a sign, a clue, some rational explanation the search team might have missed.</p>
+            <p>She found the ring of mushrooms first. A near-perfect circle, pale and swollen, growing in a pattern too symmetrical to be entirely natural, ringing the exact spot where Lily had been found. She'd read enough, in her sleepless nights of research, to know what old folklore called a circle like that. A fairy ring. A door.</p>
+            <p>She found the second thing half-buried in the leaf litter at the circle's edge, and when she knelt and brushed the dirt away with shaking fingers, her breath caught hard enough to hurt.</p>
+            <p>A small, dirt-stained sock. Lily's—Claire recognized the faded cartoon cat on the ankle immediately, one from a three-pack she'd bought at Target the spring before.</p>
+            <p>Except Lily had come out of these woods wearing both socks. Clean. Unstained. Claire remembered checking at the hospital, mindlessly counting fingers and toes the way new mothers do with newborns, an old reflex that had apparently never fully left her.</p>
+            <p>Which meant this sock had been left behind by someone else. Someone wearing Lily's clothes, in these woods, at some point during those three lost days—someone who had, for reasons Claire could not let herself fully imagine, needed a spare.</p>
+            <p>She was still kneeling there, sock clutched in her fist, when she heard the humming again — that same wrong little melody, drifting through the trees from a direction she couldn't quite place—and looked up to see, for just a fraction of a second, at the far tree line, a small shape in a yellow dress exactly like the one Lily had disappeared in.</p>
+            <p>Watching her. Head tilted, patient, curious.</p>
+            <p>By the time Claire's legs found the strength to move, the clearing's edge was empty, and the only sound left in those woods was her own ragged breathing, and somewhere very far off, a bird calling once, twice, and then nothing at all.</p>
+
+            <h2>CHAPTER FIVE: WHAT THE MIRROR SHOWED</h2>
+            <p>That night, Claire couldn't sleep. She sat in the hallway outside Lily's bedroom door—no nightlight glowing beneath it anymore, just darkness, the way Lily had insisted on since coming home—and listened to her daughter's slow, even breathing and told herself, over and over, that grief and fear could make a mother see things that weren't there.</p>
+            <p>She almost believed it, until she heard the second set of breathing.</p>
+            <p>Soft. Overlapping with the first, half a beat behind it, like an echo that hadn't quite learned the rhythm of the voice it was copying.</p>
+            <p>Claire pushed the door open with a hand that would not stop shaking.</p>
+            <p>Lily lay in bed exactly where she should have been, blankets pulled to her chin, eyes closed, breathing steady and slow. Ordinary. Claire's held breath started to loosen in her chest—until her gaze slid, almost by accident, to the mirror above Lily's dresser, angled just enough to catch the bed in its reflection.</p>
+            <p>In the mirror, Lily's reflection sat upright in bed, eyes wide open, staring directly back at Claire through the glass, mouth curved in a small, patient smile that did not belong on any eight-year-old's face in any world Claire wanted to keep believing in.</p>
+            <p>The real Lily, in the real bed, slept on undisturbed.</p>
+            <p>Claire did not scream. She would think, later, that some deep animal instinct kept her silent, the same instinct that tells you not to run from something that hasn't yet decided whether it's noticed you. She backed out of the room slowly and carefully and closed the door with hands so unsteady it took her three tries to turn the knob quietly enough not to wake either version of her daughter.</p>
+            <p>She sat on the hallway floor until dawn, back against the wall, staring at that closed door, and understood, with a clarity that felt like ice water down her spine, that whatever had walked out of those woods eleven days ago wearing her daughter's face was not finished deciding what it wanted to be.</p>
+
+            <h2>CHAPTER SIX: THE OLD PRAYER</h2>
+            <p>She went back to Adaeze the next morning, before the sun had fully cleared the trees, still in yesterday's clothes, and told her everything—the sock, the mirror, the humming, and the shape at the tree line.</p>
+            <p>Adaeze listened without interrupting, her face growing graver with every detail, and when Claire finished, she was quiet for a long moment before she spoke.</p>
+            <p>"There's a prayer," she said finally. "My grandmother's prayer, the one for children who come back wrong. I don't know if it will do anything at all — I never once had to use it myself, and I hoped I never would. But it's the only thing I have to give you, and it's better than nothing."</p>
+            <p>"What does it do?"</p>
+            <p>"It doesn't harm the child," Adaeze said carefully. "That's the first thing you need to understand, and hold onto, no matter what happens tonight. It's not for hurting whatever's wearing her. It's for calling the real one home—wherever she's been kept, whatever door she went through. The prayer opens the door back the other way. What comes through it afterward is between the door and whoever's waiting on the other side."</p>
+            <p>"And if it doesn't work?"</p>
+            <p>Adaeze's silence was answer enough. But she reached across the table and took both of Claire's hands in hers, steady despite everything, and said the only thing left to say.</p>
+            <p>"Then you'll have lost nothing you haven't already lost eleven days ago in those woods. And you'll have tried, which is more than most mothers in the old stories ever got the chance to do."</p>
+            <p>Claire went home that afternoon with a folded piece of paper in her pocket, words in a language she couldn't read written out phonetically in Adaeze's careful hand, and waited for dark.</p>
+
+            <h2>CHAPTER SEVEN: THE DOOR THAT GOES BOTH WAYS</h2>
+            <p>She woke Lily — or the thing wearing Lily — at exactly midnight, the hour Adaeze had insisted mattered, though she'd never fully explained why.</p>
+            <p>The child sat up in bed at the first touch of Claire's hand on her shoulder, eyes opening immediately, no drowsiness in them at all, no confusion—just that same patient, waiting stillness Claire had seen in the clearing eleven days ago and had spent every day since trying to unsee it.</p>
+            <p>"You know," Claire said quietly, sitting on the edge of the bed, the folded paper trembling slightly in her hand. "You've known since I picked you up in those woods. You've been waiting for me to catch up."</p>
+            <p>The child tilted her head, an unmistakably curious gesture, entirely unchildlike in its stillness. "You're smarter than most of the mothers," it said, in Lily's voice, wearing Lily's face, with an intelligence behind the eyes that had never, not once in eight years, belonged to Claire's daughter. "Most of them never notice. Or they notice, and they decide it's easier not to know."</p>
+            <p>"Where is she?" Claire's voice cracked on the words, all the careful calm she'd been holding onto for eleven days finally breaking loose. "Where's my daughter?"</p>
+            <p>"Safe," the thing said, and something in its flat voice might almost have been gentle. "Safer than she'd have been out here, if you want the truth of it. We don't take the ones who'd be happy. We only ever take the ones who are already halfway gone—lonely ones, sad ones, the ones who wander because some part of them is already looking for a door. Your daughter was looking for one a long time before she found mine."</p>
+            <p>Claire thought of every quiet moment over the past year she'd been too busy, too tired, too consumed with work and bills and the small daily emergencies of single motherhood to notice—every time Lily had sat alone in the backyard instead of coming inside, every time she'd seemed, in ways Claire had told herself were just normal childhood moods, like she was waiting for something the rest of the world couldn't see.</p>
+            <p>She unfolded the paper with hands that had stopped shaking, steadied now by something harder and more certain than fear, and began, haltingly, to read the words Adaeze had given her.</p>
+            <p>The child's expression did not change as the syllables filled the room—strange, old, and heavy in a way Claire couldn't have explained to anyone who hadn't heard them—but the air around the bed began to do something Claire's mind refused, at first, to properly register: it thinned and cooled and took on the same green, faintly sweet smell that had clung to her daughter's hair the day she came out of those woods.</p>
+            <p>By the final line of the prayer, the child on the bed was smiling — not the patient, unsettling smile it had worn all night, but something almost sad, almost relieved, an expression that looked, for one fleeting moment, like it might genuinely have belonged to whatever this creature truly was underneath the borrowed face.</p>
+            <p><em>"Tell her,"</em> it said, its voice already beginning to fade, thinning at the edges like smoke pulled toward an open window, <em>"that it wasn't so bad where I kept her company. Tell her I'll miss the sound of your voice, even if she won't remember hearing it."</em></p>
+            <p>And then the bed was empty.</p>
+            <p>Not violently. Not with any sound at all. One moment a small shape lay beneath the covers; the next, there was only rumpled fabric and the fading, sweet-green smell of somewhere far away, and Claire was alone in a silent room at half past midnight, staring at an empty bed with a folded prayer still trembling in her hand.</p>
+
+            <h2>CHAPTER EIGHT: HOME</h2>
+            <p>She found Lily—the real Lily, Claire would know her the instant she saw her, some certainty deeper than logic told her so—three hours later, sitting on the porch steps in the cold, wearing the same yellow dress she'd vanished in, hair tangled with leaves, arms wrapped tight around her knees.</p>
+            <p>She looked up when Claire came outside, and her face—her actual face, Claire understood immediately, wearing every ounce of her own true, ordinary, eight-year-old confusion—crumpled into tears the second their eyes met.</p>
+            <p>"Mom?" Lily's voice cracked on the word, thin and frightened and entirely, unmistakably her own. "Mom, I don't—I don't know where I was. I don't remember anything. Where have I been?"</p>
+            <p>Claire crossed the porch in two steps and pulled her daughter into her arms, and this time—this time—the smell in her hair was only pine and cold night air and eleven-year-old girl; nothing green underneath it, nothing wrong.</p>
+            <p>"You're home," Claire said into her daughter's tangled hair, holding on with both arms like she intended never to let go again. "That's all that matters right now, baby. You're home."</p>
+            <p>Behind them, in the dark yard, the swing set creaked once in a wind that wasn't blowing and then went still.</p>
+
+            <h2>EPILOGUE</h2>
+            <p>Lily doesn't remember the three days. The doctors call it a trauma response, dissociative amnesia, a mind protecting itself from something too large to hold onto. Claire lets them believe that, because the alternative explanation isn't one she has any intention of sharing with anyone outside a kitchen table three houses down, where an old prayer sits folded now in a drawer Claire checks, without quite meaning to, every single night before bed.</p>
+            <p>Lily is right-handed again. She asks for macaroni and cheese at least twice a week. She sleeps with her nightlight on and cries, with real hiccupping tears, on the one night it flickers and dies before Claire can replace the bulb.</p>
+            <p>But some nights—not often, maybe once a season, always around the same late hour—Claire wakes to the faint, drifting sound of humming from somewhere down the hall. A tune she doesn't recognize, in a key that makes the hair rise on her arms.</p>
+            <p>She lies very still until it stops.</p>
+            <p>She has never gone to check whose voice is singing it.</p>
+          `,
+    isHero: true
+    },
+{
         id: "2",
         title: "What Lives Beneath Skinwalker Ranch",
         category: "Paranormal USA",
@@ -269,7 +389,7 @@ const posts = [
             <h2>The Report I Didn't File</h2>
             <p>I found the fourth cow two ridges over the next morning. Untouched, uninjured, standing perfectly still, staring at nothing. She never made a sound again after that night, and neither, if I'm honest, have I gone looking for what was on that ridge.</p>
         `,
-        isHero: false
+        isHero: true
     },
     {
         id: "3",
@@ -288,7 +408,7 @@ const posts = [
             <h2>Final Entry</h2>
             <p>The steps have reached the top. I am leaving this book on the table by the door for whoever comes next. Keep the light burning. Do not, under any circumstance, let it go dark before dawn.</p>
         `,
-        isHero: true
+        isHero: false
     },
     {
         id: "4",
